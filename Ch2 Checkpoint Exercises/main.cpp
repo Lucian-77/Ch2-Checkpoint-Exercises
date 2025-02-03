@@ -1,9 +1,10 @@
-// Ch2 Checkpoint Exercises.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    std::cout << "Hello World!\n";
+	int age = 19;
+	double weight = 146.8;
+	cout << "My age is " << age << " and my weight is " << weight <<
+		endl;
+	return 0;
 }
