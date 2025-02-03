@@ -1,9 +1,11 @@
-// Ch2 Checkpoint Exercises.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
 #include <iostream>
-
+using namespace std;
 int main()
 {
-    std::cout << "Hello World!\n";
+	char first, middle, last;
+	first = 'L';
+	middle = 'R';
+	last = 'M';
+	cout << first << middle << last;
+	return 0;
 }
