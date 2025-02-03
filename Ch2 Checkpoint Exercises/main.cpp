@@ -1,4 +1,4 @@
-// Ch2 Checkpoint Exercises.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// Ch2 Checkpoint Exercises.cpp : This file contains three seperate programs, each on their own branch.
 //
 
 #include <iostream>
