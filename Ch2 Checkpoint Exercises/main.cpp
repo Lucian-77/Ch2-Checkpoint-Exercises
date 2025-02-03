@@ -4,7 +4,7 @@ int main()
 {
 	char first, middle, last;
 	first = 'L';
-	middle = 'R';
+	middle = 'S';
 	last = 'M';
 	cout << first << middle << last;
 	return 0;
